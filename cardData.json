@@ -1,0 +1,59 @@
+[
+"SC11_TSV": [
+{
+"parentsGroupID": 1001,
+"code": 1001,
+"artistID": 11001,
+"cardImageLarge": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/c_l_taste_v.png",
+"cardImageSmall": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/c_l_taste_v.png?w=90",
+"cardImageZoom": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/c_z_taste_v.png",
+"type": 0,
+"myStoreAppear": true,
+"cardImageLargeRemove": null,
+"percentage": 1.0,
+"theme": "Taste",
+"position": "Vocal",
+"sellEndAt": null,
+"viewEmptyCard": true
+}
+],
+  
+"SC11_TSD": [
+{
+"parentsGroupID": 1001,
+"code": 1001,
+"artistID": 11001,
+"cardImageLarge": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/c_l_taste_d.png",
+"cardImageSmall": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/c_l_taste_d.png?w=90",
+"cardImageZoom": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/c_z_taste_d.png",
+"type": 0,
+"myStoreAppear": true,
+"cardImageLargeRemove": null,
+"percentage": 1.0,
+"theme": "Taste",
+"position": "Dance",
+"sellEndAt": null,
+"viewEmptyCard": true
+}
+],
+
+  "SC11_TSR": [
+{
+"parentsGroupID": 1001,
+"code": 1001,
+"artistID": 11001,
+"cardImageLarge": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/c_l_taste_r.png",
+"cardImageSmall": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/c_l_taste_r.png?w=90",
+"cardImageZoom": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/c_z_taste_r.png",
+"type": 0,
+"myStoreAppear": true,
+"cardImageLargeRemove": null,
+"percentage": 1.0,
+"theme": "Taste",
+"position": "Rhythm",
+"sellEndAt": null,
+"viewEmptyCard": true
+}
+]
+  
+]
