@@ -1,0 +1,21 @@
+[
+	"SC01_V": [
+ {
+		"analyticsData": "Star To A Young Culture_SUMIN",
+		"code": 1001,
+		"groupID": 1001,
+		"purchase": 0,
+		"artistID": 1001,
+		"profileImage": "https://ik.imagekit.io/sssb/resources/images/card/i_cant_send/c_l_i_cant_send_v.png?tr=lo-true,fo-face,r-max,w-122,h-122",
+		"eventType": 0,
+		"endAt": null,
+		"paymentType": null,
+		"eventCode": null,
+		"profileType": 0,
+		"price": 0,
+		"name": null,
+		"orderIndex": 0,
+		"startAt": null
+	}
+]
+]
