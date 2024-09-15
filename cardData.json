@@ -46,6 +46,54 @@
 "position": "Rhythm",
 "sellEndAt": null,
 "viewEmptyCard": true
+},
+  {
+"parentsGroupID": 1001,
+"code": 7001,
+"artistID": 7001,
+"cardImageLarge": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/nonsense/c_l_nonsense_v.png",
+"cardImageSmall": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/nonsense/c_l_nonsense_v.png?w=90",
+"cardImageZoom": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/nonsense/c_z_nonsense_v.png",
+"type": 0,
+"myStoreAppear": true,
+"cardImageLargeRemove": null,
+"percentage": 1.0,
+"theme": "Nonsense",
+"position": "Vocal",
+"sellEndAt": null,
+"viewEmptyCard": true
+},
+{
+"parentsGroupID": 1001,
+"code": 7002,
+"artistID": 7001,
+"cardImageLarge": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/nonsense/c_l_nonsense_d.png",
+"cardImageSmall": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/nonsense/c_l_nonsense_d.png?w=90",
+"cardImageZoom": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/nonsense/c_z_nonsense_d.png",
+"type": 0,
+"myStoreAppear": true,
+"cardImageLargeRemove": null,
+"percentage": 1.0,
+"theme": "Nonsense",
+"position": "Dance",
+"sellEndAt": null,
+"viewEmptyCard": true
+},
+{
+"parentsGroupID": 1001,
+"code": 7003,
+"artistID": 7001,
+"cardImageLarge": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/nonsense/c_l_nonsense_r.png",
+"cardImageSmall": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/nonsense/c_l_nonsense_r.png?w=90",
+"cardImageZoom": "https://superstar-sabrinacarpenter-s2.sirv.com/resources/images/card/nonsense/c_z_nonsense_r.png",
+"type": 0,
+"myStoreAppear": true,
+"cardImageLargeRemove": null,
+"percentage": 1.0,
+"theme": "Nonsense",
+"position": "Rhythm",
+"sellEndAt": null,
+"viewEmptyCard": true
 }
   
 ]
